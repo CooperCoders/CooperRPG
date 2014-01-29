@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1389482759 source:c:\users\jason\documents\github\rpg\character.cpp
+	"character.h"
+
+1390431809 c:\users\jason\documents\github\rpg\character.h
+	"sprite.h"
+
+1390431809 c:\users\jason\documents\github\rpg\sprite.h
+	"SDL/SDL.h"
+	"Rectangle.h"
+
+1390431809 c:\users\jason\documents\github\rpg\rectangle.h
+
+1390431809 source:c:\users\jason\documents\github\rpg\local.cpp
+	"local.h"
+
+1390431809 c:\users\jason\documents\github\rpg\local.h
+	"character.h"
+
+1390932673 source:c:\users\jason\documents\github\rpg\main.cpp
+	<math.h>
+	<fstream>
+	<string>
+	<sstream>
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_image.h"
+	"init.h"
+	"timer.h"
+	"Rectangle.h"
+	"sprite.h"
+	"character.h"
+	"local.h"
+	"socket.h"
+
+1390431809 c:\users\jason\documents\github\rpg\init.h
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_image.h"
+	"Rectangle.h"
+
+1388384911 c:\users\jason\documents\github\rpg\timer.h
+	"SDL/SDL.h"
+
+1390431809 source:c:\users\jason\documents\github\rpg\sprite.cpp
+	"sprite.h"
+
+1388384911 source:c:\users\jason\documents\github\rpg\timer.cpp
+	"timer.h"
+
+1390431948 source:c:\users\jason\documents\github\rpg\socket.cpp
+	"socket.h"
+
+1390431924 c:\users\jason\documents\github\rpg\socket.h
+	<winsock2.h>
+	<string>
+
